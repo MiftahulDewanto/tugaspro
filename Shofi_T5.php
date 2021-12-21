@@ -47,7 +47,7 @@
         
     <!--About-->
         <div id="nav-col">
-            <h3 align="center"><font size=6><b>About Me</b></font></h2>
+            <h3 align="center"><font size=6><b>About Me</b></font></h3>
             <hr color="darkgoldenrod" size="2">
         </div>
         <div id="nav">
