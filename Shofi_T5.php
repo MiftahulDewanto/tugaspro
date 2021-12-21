@@ -43,6 +43,8 @@
                 </div>
             </div>
         </section>
+            
+        
     <!--About-->
         <div id="nav-col">
             <h3 align="center"><font size=6><b>About Me</b></font></h2>
